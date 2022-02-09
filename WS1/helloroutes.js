@@ -15,5 +15,5 @@ http.createServer(function(request, response) {
     response.end("Hello world, again!");
 }).listen(8081); //listenaa portin 8081
 
-//printataan consoliin yhteyden muodostuoessa
+//printataan consoliin yhteyden muodostuoessa,testi
 console.log('Server running at http://127.0.0.1:8081/');
