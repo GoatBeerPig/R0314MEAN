@@ -1,0 +1,4 @@
+Hey there. This content is located in a file called teht1.txt.
+Cheers,
+Heh
+This one is from another file.
